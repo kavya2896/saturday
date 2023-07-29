@@ -1,0 +1,22 @@
+body{
+background-color: #213363;
+background-size: 100vh,100%;
+}
+
+.navbar{
+    background-color:  #213363;
+    position: relative;
+}
+.nav-item{
+    color: white;
+    /* height: 20vh; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    font-weight: 400;
+
+    /* position: absolute;
+    left: 10%; */
+}
